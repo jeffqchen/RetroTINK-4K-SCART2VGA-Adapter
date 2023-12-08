@@ -11,11 +11,9 @@ This adapter makes it super easy to hook up my [Console VGA Dongle Series](https
 
 This adapter is physically compatible with both the official shell and my own Founders Edition shell, which will be available at a later point.
 
-<img width="400" alt="ogshell_out" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/b7464ea3-9be8-4d3f-bb4a-1661146d5f11">
-<img width="400" alt="oghsell_in" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/ab4a3066-2132-49d7-85a1-34e73890db83">
+<img width="400" alt="ogshell_out" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/b7464ea3-9be8-4d3f-bb4a-1661146d5f11"> <img width="400" alt="oghsell_in" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/ab4a3066-2132-49d7-85a1-34e73890db83">
 
-<img width="400" alt="pic10" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/aa0377e1-0769-4d38-aaf6-4b5022b710d8">
-<img width="400" alt="pic09" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/3cf8e537-7be8-4db5-a9b5-3bd96a1edc93">
+<img width="400" alt="pic09" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/3cf8e537-7be8-4db5-a9b5-3bd96a1edc93"> <img width="400" alt="pic10" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/aa0377e1-0769-4d38-aaf6-4b5022b710d8">
 
 ------
 
