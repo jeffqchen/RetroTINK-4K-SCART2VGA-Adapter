@@ -43,6 +43,7 @@ This adapter does not have a discrete analog audio input, since I wish to make t
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 - SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
+  - *Most cheap SCART cables use this type of plug. The height of the plastic part is around 1cm. There is a thinner version (5mm) of this plug and this design is incompatible with it.*
 - SMD Resistor, imperial 0603 size, 470 Ohm
   - Buy from wherever you feel like (DigiKey, Mouser, Amazon, AliExpress, eBay)
 - 2.54mm-pitched Pin Headers 1x2 and jumper
