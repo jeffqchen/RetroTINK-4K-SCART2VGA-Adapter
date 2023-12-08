@@ -72,11 +72,15 @@ The most interesting part is to fit the SCART plug into the special footprint an
 
 Since these plugs are all made slightly differently, you will need some wiggling action to make all the pins go through the board. My advice would be to use a pair of tweezers and wiggle whichever pin that's not compliant. Fit one entire row/side first, then work on the other. Have patience and it will eventually go in. Never force it as you will bend the pins and make it impossible to fit.
 
+<img width="400" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/6f57a5f5-26c1-4ebd-aa0b-3f6d1654d21a"> <img width="400" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/7fb9b6bc-7c61-4784-b078-2a4a856921f5">
+
 Once the pins are all in, make sure the PCB can sit flush to the back of the plug. If there is any gap, the shell won't be able to close. Check if you missed any injection mark and cut it flush.
 
 Then solder in the pin headers. Make sure they are not crooked or they will interfere with the shell.
 
 Then, solder in the 470 Ohm SMD resistor and the VGA port. All ordinary.
+
+The shell was designed with a very tight tolerance for physical strength. Please make sure you are going straight when sliding the PCB assembly into the shell.
 
 Finally, close up the shell with two sets of M2x16mm screws and nuts.
 
