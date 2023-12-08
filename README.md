@@ -6,20 +6,31 @@ This adapter makes it super easy to hook up my [Console VGA Dongle Series](https
 
 This adapter is physically compatible with both the official shell and my own Founders Edition shell, which will be available at a later point.
 
+------
+
 ## Signals
+
+### Video
+
+This adapter mainly accepts SCART-compliant RGBS video signal. Sync formats accepted are CSync, Luma or Composite Video.
 
 This adapter can also pass the following formats through the proper pins:
 - YPrPb
 - RGsB
 - CVBS on Pin 20
 
+Please remember to adjust the input options in the Tink4K respectively.
+
+### Audio
+
 This adapter does not have a discrete analog audio input, since I wish to make the design as simple as possible. If you wish to hook up an external analog/digital audio source, please make use of the audio input assignment feature of the Tink4K and save the changes as your own profile.
 
+------
 
 ## Parts
 
-- PCB
-- 3D Printed Shell
+- PCB. 1.6mm thick - [Link to Gerber File](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/blob/main/KiCAD/gerber/RT4K_SCART2VGA.zip)
+- 3D Printed Shell - [Link](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/tree/main/3D%20Print)
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
 - SCART Male Plug, Cable Type - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/SCART/Male%20Cable/info.md)
@@ -28,15 +39,17 @@ This adapter does not have a discrete analog audio input, since I wish to make t
 - 2.54mm-pitched Pin Headers 1x2 and jumper
 
 - [2x] M2x16mm screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M2%20M3%20Hex%20Screw%20%26%20Nut/info.md)
-- [1x] M4x20mm screw
+- [1x] M4x20m screw and hex nut - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Parts/M4%20Hex%20Screw%20%26%20Nut/info.md)
 
-## 3D Print
+### 3D Print
 
 Print the models in the given vertical orientation. Support is necessary.
 
-## Preparation
+### Preparation
 
 The plastic part of the SCART plug has several injection marks that need to be cleaned up with a sharp knife. Otherwise the PCB won't be able to sit flush with the back of the SCART plug.
+
+------
 
 ## Assembly
 
