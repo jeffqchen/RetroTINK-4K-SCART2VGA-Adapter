@@ -61,6 +61,9 @@ Print the models in the given vertical orientation. Support is necessary.
 
 The plastic part of the SCART plug has several injection marks that need to be cleaned up with a sharp knife. Otherwise the PCB won't be able to sit flush with the back of the SCART plug.
 
+<img width="400" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/f01cb6db-7968-4b5f-9419-6c7ee223280f"> <img width="400" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/682cbabd-526a-4427-9477-fe2a89396e83">
+
+
 ------
 
 ## Assembly
