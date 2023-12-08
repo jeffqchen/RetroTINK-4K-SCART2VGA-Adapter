@@ -2,8 +2,8 @@
 
 <img width="800" alt="pic08" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/5b902c31-59d6-4c3b-925e-643c47eb7815">
 
-<img width="400" alt="pic03" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/8a7983ca-324f-4082-a550-b414791a461b"> <img width="400" alt="pic04" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/03e6a43b-b77b-4c51-8103-93f344e84073">
 <img width="400" alt="pic01" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/e220464e-67d5-454c-a327-1b88799e715c"> <img width="400" alt="pic02" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/08c8b0ed-8aab-4e07-b2a3-94fadef2626f">
+<img width="400" alt="pic03" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/8a7983ca-324f-4082-a550-b414791a461b"> <img width="400" alt="pic04" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/03e6a43b-b77b-4c51-8103-93f344e84073">
 
 This is an adapter that converts the SCART IN port on the side of the [RetroTINK 4K](https://www.retrotink.com/product-page/retrotink-4k) to a rear-facing HD-15 VGA port.
 
@@ -16,7 +16,6 @@ This adapter is physically compatible with both the official shell and my own Fo
 
 <img width="400" alt="pic10" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/aa0377e1-0769-4d38-aaf6-4b5022b710d8">
 <img width="400" alt="pic09" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/3cf8e537-7be8-4db5-a9b5-3bd96a1edc93">
-
 
 ------
 
@@ -63,7 +62,6 @@ The plastic part of the SCART plug has several injection marks that need to be c
 
 <img width="400" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/f01cb6db-7968-4b5f-9419-6c7ee223280f"> <img width="400" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/682cbabd-526a-4427-9477-fe2a89396e83">
 
-
 ------
 
 ## Assembly
@@ -95,7 +93,6 @@ If you are using 5V TTL-level sync from an out-of-spec device, or a VGA switcher
 ## Installation
 
 <img width="400" alt="pic07" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/321a4bd5-e22b-4670-89b7-6ac1e6627375"> <img width="400" alt="pic06" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/bfd60685-0151-44ab-a41a-4c99c1f521cd">
-
 
 To install the adapter to the RetroTINK 4K, simply plug it in from the side, and fasten it in with one M4x20mm screw. This connection is robust enough for daily abuse.
 
