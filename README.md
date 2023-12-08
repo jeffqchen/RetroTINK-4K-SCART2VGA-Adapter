@@ -1,10 +1,22 @@
 # RetroTINK 4K SCART2VGA Adapter
 
+<img width="800" alt="pic08" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/5b902c31-59d6-4c3b-925e-643c47eb7815">
+
+<img width="400" alt="pic03" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/8a7983ca-324f-4082-a550-b414791a461b"> <img width="400" alt="pic04" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/03e6a43b-b77b-4c51-8103-93f344e84073">
+<img width="400" alt="pic01" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/e220464e-67d5-454c-a327-1b88799e715c"> <img width="400" alt="pic02" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/08c8b0ed-8aab-4e07-b2a3-94fadef2626f">
+
 This is an adapter that converts the SCART IN port on the side of the RetroTINK 4K to a rear-facing HD-15 VGA port.
 
 This adapter makes it super easy to hook up my [Console VGA Dongle Series](https://github.com/jeffqchen/Console-VGA-Dongle-Series) to the RetroTINK 4K with one single VGA cable. Since my VGA dongles are not RGBHV devices, it makes more sense to leave the real HD-15 port for those that require RGBHV and use the SCART port instead.
 
 This adapter is physically compatible with both the official shell and my own Founders Edition shell, which will be available at a later point.
+
+<img width="400" alt="ogshell_out" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/b7464ea3-9be8-4d3f-bb4a-1661146d5f11">
+<img width="400" alt="oghsell_in" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/ab4a3066-2132-49d7-85a1-34e73890db83">
+
+<img width="400" alt="pic10" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/aa0377e1-0769-4d38-aaf6-4b5022b710d8">
+<img width="400" alt="pic09" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/3cf8e537-7be8-4db5-a9b5-3bd96a1edc93">
+
 
 ------
 
@@ -29,7 +41,7 @@ This adapter does not have a discrete analog audio input, since I wish to make t
 
 ## Parts
 
-- PCB. 1.6mm thick - [Link to Gerber File](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/blob/main/KiCAD/gerber/RT4K_SCART2VGA.zip)
+- PCB. 1.6mm thick - [Gerber File](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/blob/main/KiCAD/gerber/RT4K_SCART2VGA.zip)
 - 3D Printed Shell - [Link](https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/tree/main/3D%20Print)
 
 - VGA Port Slim, Female - [Link](https://github.com/jeffqchen/JeffParts/blob/main/Connectors/HD15/Slim/Female%20PCB/info.md)
@@ -67,10 +79,15 @@ Finally, close up the shell with two sets of M2x16mm screws and nuts.
 
 ## Attenuation
 
+<img width="600" alt="attn" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/10aa0238-03ad-4dce-a59e-f1be09e8c44e">
+
 When the jumper is closed, there is no additional attenuation on the sync line. This works with in-spec SCART signals.
 
-If you are using 5V TTL-level sync from an out-of-spec device, or a VGA switcher box, you will want to leave the jumper open for safety of the Tink4K. Addition space below is provided to store the jumper.
+If you are using 5V TTL-level sync from an out-of-spec device, or a VGA switcher box, you will want to leave the jumper open for the safety of the Tink4K. Addition space below is provided to store the loose jumper.
 
 ## Installation
+
+<img width="400" alt="pic07" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/321a4bd5-e22b-4670-89b7-6ac1e6627375"> <img width="400" alt="pic06" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/bfd60685-0151-44ab-a41a-4c99c1f521cd">
+
 
 To install the adapter to the RetroTINK 4K, simply plug it in from the side, and fasten it in with one M4x20mm screw. This connection is robust enough for daily abuse.
