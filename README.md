@@ -32,7 +32,7 @@ Please remember to adjust the input options in the Tink4K respectively.
 
 ### Audio
 
-This adapter does not have a discrete analog audio input, since I wish to make the design as simple as possible. If you wish to hook up an external analog/digital audio source, please make use of the audio input assignment feature of the Tink4K and save the changes as your own profile.
+This adapter does not have a discrete analog audio input, since I wish to make the design as simple as possible. If you wish to hook up an external analog/digital audio source, please make use of the audio input override feature of the Tink4K and save the changes as your own profile.
 
 ------
 
