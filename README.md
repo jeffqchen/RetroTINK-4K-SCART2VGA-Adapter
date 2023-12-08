@@ -5,7 +5,7 @@
 <img width="400" alt="pic03" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/8a7983ca-324f-4082-a550-b414791a461b"> <img width="400" alt="pic04" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/03e6a43b-b77b-4c51-8103-93f344e84073">
 <img width="400" alt="pic01" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/e220464e-67d5-454c-a327-1b88799e715c"> <img width="400" alt="pic02" src="https://github.com/jeffqchen/RetroTINK-4K-SCART2VGA-Adapter/assets/25773768/08c8b0ed-8aab-4e07-b2a3-94fadef2626f">
 
-This is an adapter that converts the SCART IN port on the side of the RetroTINK 4K to a rear-facing HD-15 VGA port.
+This is an adapter that converts the SCART IN port on the side of the [RetroTINK 4K](https://www.retrotink.com/product-page/retrotink-4k) to a rear-facing HD-15 VGA port.
 
 This adapter makes it super easy to hook up my [Console VGA Dongle Series](https://github.com/jeffqchen/Console-VGA-Dongle-Series) to the RetroTINK 4K with one single VGA cable. Since my VGA dongles are not RGBHV devices, it makes more sense to leave the real HD-15 port for those that require RGBHV and use the SCART port instead.
 
@@ -91,3 +91,25 @@ If you are using 5V TTL-level sync from an out-of-spec device, or a VGA switcher
 
 
 To install the adapter to the RetroTINK 4K, simply plug it in from the side, and fasten it in with one M4x20mm screw. This connection is robust enough for daily abuse.
+
+------
+
+## Special Thanks
+
+Mike Chi - The Father of RetroTINK
+- [RetroTINK 4K Product Page](https://www.retrotink.com/product-page/retrotink-4k)
+- [Official Website](https://www.retrotink.com)
+- [Twitter](https://twitter.com/retrotink2)
+
+------
+
+Shield: [![CC BY-SA 4.0][cc-by-sa-shield]][cc-by-sa]
+
+This work is licensed under a
+[Creative Commons Attribution-ShareAlike 4.0 International License][cc-by-sa].
+
+[![CC BY-SA 4.0][cc-by-sa-image]][cc-by-sa]
+
+[cc-by-sa]: http://creativecommons.org/licenses/by-sa/4.0/
+[cc-by-sa-image]: https://licensebuttons.net/l/by-sa/4.0/88x31.png
+[cc-by-sa-shield]: https://img.shields.io/badge/License-CC%20BY--SA%204.0-lightgrey.svg
